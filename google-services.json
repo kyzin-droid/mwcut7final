@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "811398640588",
+    "project_id": "mwcut-c7aec",
+    "storage_bucket": "mwcut-c7aec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811398640588:android:0dce9f039dd8135ab06369",
+        "android_client_info": {
+          "package_name": "com.senai.mwcut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811398640588-m37eidqv3briicect3or4kqlth141k5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJQeiSdnTO1rVfg1MZNVDHQiGMoeYnnbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811398640588-m37eidqv3briicect3or4kqlth141k5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
